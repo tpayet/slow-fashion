@@ -1,4 +1,4 @@
-# Referencement de marques slow-fashion made in Europe 
+# Referencement de marques slow-fashion made in Europe at normal prices
 
 ## Hauts
 ### Chemises
@@ -13,3 +13,18 @@
 * [Drapeau noir](https://drapeau-noir.fr/product-category/pulls/)
 * [Six&Sept](http://sixetsept.fr/13-les-essentiels-six-sept)
 * 	[Loom](https://www.loom.fr/collections/hauts)
+
+## Bas
+### Chinos
+* [LePantalon](https://www.lepantalon.fr/fr/8-chinos)
+
+### Jeans
+* [LePantalon](https://www.lepantalon.fr/fr/9-jeans)
+* [1083](http://www.1083.fr/jeans.html)
+
+## Chaussures
+### Sneakers
+* [1083](http://www.1083.fr/chaussures.html)
+
+### Classics
+* [Paire et Fils](http://www.pairetfils.com)
